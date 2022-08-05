@@ -4,7 +4,7 @@
 Hey ppl, my name is Vitor Mamede, I'm 24 years old, student of Economics and on my way to becoming a software dev too :)
 
 ## Main Projects
-
+ + <a href="https://github.com/mamedevitor/projeto-acoes" target="_blank">Dash de Ações</a> <br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
