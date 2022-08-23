@@ -1,7 +1,7 @@
 # Economics and Dev Student :)
 
 ## Apresentation
-Hey ppl, my name is Vitor Mamede, I'm 24 years old, student of Economics and on my way to becoming a software dev too :)
+Hello ppl, my name is Vitor Mamede, I'm 24 years old, student of Economics and on my way to becoming a software dev too :)
 
 ## Main Projects
  + <a href="https://github.com/mamedevitor/projeto-acoes" target="_blank">Dash de Ações</a> <br>
