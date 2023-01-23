@@ -1,7 +1,7 @@
 # Economics and Dev Student :)
 
 ## Apresentation
-Hello, my name is Vitor, I'm 25 years old, student of Economics and on my way to becoming a software dev too :)
+Hello, i'm Vitor, 25 years old, student of Economics and on my way to becoming a dev :)
 
 ## Main Projects
  + <a href="https://github.com/mamedevitor/projeto-acoes" target="_blank">Dash de Ações</a> <br>
