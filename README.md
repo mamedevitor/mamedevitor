@@ -1,17 +1,14 @@
 # Economics and Dev Student :)
 
 ## Apresentation
-Hello, i'm Vitor, 25 years old, student of Economics and on my way to becoming a dev :)
-
-## Main Projects
- + <a href="https://github.com/mamedevitor/projeto-acoes" target="_blank">Dash de Ações</a> <br>
+Hello, i'm Vitor, 25 years old, student of Economics and Data Scientist.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MySql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Pycharm" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+  <img align="center" alt="Pycharm" height="50" width="60" src="https://user-images.githubusercontent.com/84391594/152705271-083f8784-b3c9-4065-9733-ea3fa8ad5a7a.png">
   <img align="center" alt="VScode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="VScode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="VScode" height="50" width="60" src="https://user-images.githubusercontent.com/84391594/152706127-ce41990f-2588-472a-b5df-6b403a5947e6.png">
 
 </div>
 
