@@ -1,4 +1,4 @@
-# Economics and Dev Student :)
+# Data Scientist & Dev Student :)
 
 ## Apresentation
 Hey! My name is Vitor, I'm 26 years old, I'm currently a data scientist at @BancoFibra.
