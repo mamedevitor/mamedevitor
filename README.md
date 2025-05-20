@@ -1,7 +1,7 @@
 # Data Scientist & Dev Student :)
 
 ## Apresentation
-Hey! My name is Vitor, I'm 27 years old, I'm currently a data scientist at @BancoBradesco.
+Hey! My name is Vitor, I'm 28 years old, I'm currently a data scientist.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
