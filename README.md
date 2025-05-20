@@ -1,4 +1,4 @@
-# Data Scientist & Dev Student :)
+# Data Scientist :)
 
 ## Apresentation
 Hey! My name is Vitor, I'm 28 years old, I'm currently a data scientist.
