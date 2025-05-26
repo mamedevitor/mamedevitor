@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode
+.vscode/
+
+# Virtual envs
+venv/
+.env/
+.venv/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data files (salvos localmente)
+data/raw/
+data/processed/
+
+# Logs
+*.log
+logs/
+
+# MLflow artifacts
+mlruns/
+.mlflow/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Python package build
+build/
+dist/
+*.egg-info/
